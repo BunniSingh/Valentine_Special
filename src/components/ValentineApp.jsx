@@ -51,6 +51,7 @@ export default function ValentineApp() {
         </div>
       ) : (
         <div className="bg-white rounded-2xl shadow-xl p-10 text-center space-y-4 animate-bounce">
+          
           <h2 className="text-3xl font-bold text-pink-600">🎉 Thank You! Beb 🎉</h2>
           <p className="text-lg text-gray-700">
             You took a very good decision 😌❤️
