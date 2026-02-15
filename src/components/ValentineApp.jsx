@@ -47,7 +47,7 @@ export default function ValentineApp() {
             </button>
           </div>
 
-          <p className="text-sm  text-gray-500">Try clicking NO 😏</p>
+          <p className="text-sm text-gray-500">Try clicking NO 😏</p>
         </div>
       ) : (
         <div className="bg-white rounded-2xl shadow-xl p-10 text-center space-y-4 animate-bounce">
