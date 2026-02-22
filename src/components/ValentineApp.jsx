@@ -18,6 +18,7 @@ export default function ValentineApp() {
         <div className="bg-white rounded-2xl shadow-xl p-8 w-[90%] max-w-md text-center space-y-6">
           <h1 className="text-2xl font-bold text-rose-600">
             Hey Beb, will you be my Valentine? 💖
+            
           </h1>
 
           {/* Fixed: Use relative container and properly position buttons */}
